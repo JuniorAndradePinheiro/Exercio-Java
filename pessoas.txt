@@ -1,0 +1,4 @@
+aline;30;feminino
+junior;28;masculino
+bruno;27;masculino
+Luiz miguel;4;masculino
